@@ -5,14 +5,12 @@ data = {}
 
 wb = open_workbook('raw_released_data.xlsx')
 for s in wb.sheets():
-    print(s.name)
+    print("Processing:", s.name)
     data[s.name]={}
     i = 0
     while True:
         header = list(filter(lambda x: not x == "", map(lambda x: x.value, s.row(i))))
-        print("")
-        print("HEADER", header)
-        print("")
+        data[s.name]["Header"] = header
         i=i+1
         while True:
             try:
@@ -20,7 +18,6 @@ for s in wb.sheets():
                 i = i+1
                 if row == [""]*(len(header)):
                     break
-                print(row)
                 if row[0] not in data[s.name]:
                     data[s.name][row[0]]={}
                 rowData = {}
@@ -37,4 +34,4 @@ for s in wb.sheets():
         except IndexError:
             break
 with open("data.json", "w") as outputFile:
-    json.dump(data, outputFile)
+    outputFile.write(json.dumps(data, indent=4))
