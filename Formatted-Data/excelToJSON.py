@@ -1,9 +1,14 @@
 from xlrd import open_workbook
+from optparse import OptionParser
 import json
 
-data = {}
+parser = OptionParser()
+parser.add_option("-f", "--excelfile", dest="filename",
+                          help="Input Excel file", metavar="FILE")
+(options, args) = parser.parse_args()
 
-wb = open_workbook('raw_released_data.xlsx')
+data = {}
+wb = open_workbook(options.filename)
 for s in wb.sheets():
     print("Processing:", s.name)
     data[s.name]={}
@@ -33,5 +38,5 @@ for s in wb.sheets():
             s.row(i)
         except IndexError:
             break
-with open("data.json", "w") as outputFile:
+with open(options.filename.split(".")[0]+".json", "w") as outputFile:
     outputFile.write(json.dumps(data, indent=4))
