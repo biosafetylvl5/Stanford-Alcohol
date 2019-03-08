@@ -1,0 +1,503 @@
+{
+    "FROSH SURVEY RESULTS, 2012-2018": {
+        "1": {
+            "Header": [
+                "Question/Prompt",
+                "Answer",
+                "2011-2012",
+                "2012-2013",
+                "2013-2014",
+                "2015-2016",
+                "2016-2017",
+                "2017-2018",
+                "Notes"
+            ],
+            "Total Enrolled Frosh": {
+                "2011-2012": 1722.0,
+                "2012-2013": 1767.0,
+                "2013-2014": 1690.0,
+                "2015-2016": 1732.0,
+                "2016-2017": 1750.0,
+                "2017-2018": 1708.0,
+                "Notes": ""
+            },
+            "Total Respondents": {
+                "2011-2012": 1326.0,
+                "2012-2013": 1486.0,
+                "2013-2014": 818.0,
+                "2015-2016": 1287.0,
+                "2016-2017": 1387.0,
+                "2017-2018": 1328.0,
+                "Notes": ""
+            },
+            "Respondents Who Consumed\nAlcohol in Past 2 Weeks": {
+                "2011-2012": 672.0,
+                "2012-2013": 760.0,
+                "2013-2014": 467.0,
+                "2015-2016": 703.0,
+                "2016-2017": 778.0,
+                "2017-2018": 720.0,
+                "Notes": ""
+            },
+            "Female": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 657.0,
+                "2016-2017": 743.0,
+                "2017-2018": 707.0,
+                "Notes": ""
+            },
+            "Male": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 642.0,
+                "2016-2017": 631.0,
+                "2017-2018": 611.0,
+                "Notes": ""
+            },
+            "Blank": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 6.0,
+                "2016-2017": 13.0,
+                "2017-2018": 10.0,
+                "Notes": ""
+            },
+            "All-frosh Dorms": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 802.0,
+                "2016-2017": 875.0,
+                "2017-2018": 851.0,
+                "Notes": ""
+            },
+            "4-class Dorms": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 303.0,
+                "2016-2017": 332.0,
+                "2017-2018": 285.0,
+                "Notes": ""
+            },
+            "Ethnic-theme Dorms": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 85.0,
+                "2016-2017": 87.0,
+                "2017-2018": 82.0,
+                "Notes": ""
+            },
+            "FroSoCo": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 84.0,
+                "2016-2017": 90.0,
+                "2017-2018": 92.0,
+                "Notes": ""
+            },
+            "Other/Transfer": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 13.0,
+                "2016-2017": 3.0,
+                "2017-2018": 18.0,
+                "Notes": ""
+            },
+            "Total Responses": {
+                "2011-2012": "",
+                "2012-2013": "",
+                "2013-2014": "",
+                "2015-2016": 1287.0,
+                "2016-2017": 1387.0,
+                "2017-2018": 1328.0,
+                "Notes": ""
+            },
+            "\"During the past year, have you consumed alcohol (i.e., had more than a few sips of beer, wine, or liquor)?\" (%)": {
+                "Total Responces": {
+                    "2011-2012": 1326.0,
+                    "2012-2013": 1486.0,
+                    "2013-2014": 818.0,
+                    "2015-2016": 1287.0,
+                    "2016-2017": 1387.0,
+                    "2017-2018": 1328.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the two weeks, have you consumed alcohol (i.e., had more than a few sips of beer, wine, or liquor)?\" (%)": {
+                "Blank": {
+                    "2011-2012": 39.0,
+                    "2012-2013": 36.0,
+                    "2013-2014": 30.0,
+                    "2015-2016": 33.0,
+                    "2016-2017": 32.0,
+                    "2017-2018": 34.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the past two weeks, how many times have you had five (for MAAB)/four (for FAAB) or more drinks in a row within a 2-hour period?\"": {
+                "Never": {
+                    "2011-2012": 47.0,
+                    "2012-2013": 49.0,
+                    "2013-2014": 51.0,
+                    "2015-2016": 48.0,
+                    "2016-2017": 45.0,
+                    "2017-2018": 44.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the past two weeks, how many times have you had four or more drinks in a row within a 2-hour period?\", Only FAAB": {
+                "Never": {
+                    "2011-2012": "",
+                    "2012-2013": "",
+                    "2013-2014": "",
+                    "2015-2016": 49.0,
+                    "2016-2017": 45.0,
+                    "2017-2018": 44.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the past two weeks, how many times have you had four or more drinks in a row within a 2-hour period?\", Only MAAB": {
+                "Never": {
+                    "2011-2012": "",
+                    "2012-2013": "",
+                    "2013-2014": "",
+                    "2015-2016": 47.0,
+                    "2016-2017": 46.0,
+                    "2017-2018": 43.0,
+                    "Notes": ""
+                }
+            },
+            "\"In the past two weeks, when you consumed alcohol, where did you spend most of your time drinking?\"": {
+                "In a car": {
+                    "2011-2012": 1.0,
+                    "2012-2013": 1.0,
+                    "2013-2014": 0.0,
+                    "2015-2016": 7.0,
+                    "2016-2017": 0.0,
+                    "2017-2018": 1.0,
+                    "Notes": ""
+                }
+            },
+            "\"Please mark which of the following best matches your current situation.\" (%)": {
+                "Total Respondents": {
+                    "2011-2012": 815.0,
+                    "2012-2013": 948.0,
+                    "2013-2014": 572.0,
+                    "2015-2016": 860.0,
+                    "2016-2017": 950.0,
+                    "2017-2018": 883.0,
+                    "Notes": ""
+                }
+            },
+            "\"How important to you is each of the following reasons for drinking alcoholic beverages?\" (%)": {
+                "Total Respondents": {
+                    "2011-2012": 813.0,
+                    "2012-2013": 930.0,
+                    "2013-2014": 563.0,
+                    "2015-2016": 855.0,
+                    "2016-2017": 948.0,
+                    "2017-2018": 883.0,
+                    "Notes": ""
+                }
+            },
+            "\"When you choose not to drink alcohol, how important are the following reasons?\" (%)": {
+                "Total Respondents": {
+                    "2011-2012": 1280.0,
+                    "2012-2013": 1396.0,
+                    "2013-2014": 786.0,
+                    "2015-2016": 1270.0,
+                    "2016-2017": 1356.0,
+                    "2017-2018": 1293.0,
+                    "Notes": ""
+                }
+            },
+            "\"When you drink, to what degree do you do the following?\"": {
+                "Chugging alcohol": {
+                    "2011-2012": 803.0,
+                    "2012-2013": 749.0,
+                    "2013-2014": 458.0,
+                    "2015-2016": 696.0,
+                    "2016-2017": 765.0,
+                    "2017-2018": 701.0,
+                    "Notes": ""
+                }
+            },
+            "\"When you drink, to what degree do you do the following?\" (%)": {
+                "Total Respondents": {
+                    "2011-2012": 809.0,
+                    "2012-2013": 751.0,
+                    "2013-2014": 463.0,
+                    "2015-2016": 702.0,
+                    "2016-2017": 773.0,
+                    "2017-2018": 708.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the past two weeks, to what degree did the following happen to you when drinking or as a result of your drinking? Don't count things that have happened to you but were not because of drinking.\" (%)": {
+                "Total Respondents": {
+                    "2011-2012": 670.0,
+                    "2012-2013": 517.0,
+                    "2013-2014": 321.0,
+                    "2015-2016": 700.0,
+                    "2016-2017": 775.0,
+                    "2017-2018": 711.0,
+                    "Notes": ""
+                }
+            },
+            "\"During the next 30 days to what degree do you plan to\u2026\"": {
+                "Total Respondents": {
+                    "2011-2012": "",
+                    "2012-2013": "",
+                    "2013-2014": "",
+                    "2015-2016": 700.0,
+                    "2016-2017": 767.0,
+                    "2017-2018": 708.0,
+                    "Notes": ""
+                }
+            }
+        },
+        "2": {
+            "Header": []
+        }
+    },
+    "ALCOHOL USE TRENDS, 2012-2018": {
+        "1": {
+            "Header": [
+                "Question/Prompt",
+                "Answer",
+                "2012",
+                "2013",
+                "2014",
+                "2015",
+                "2016",
+                "2017",
+                "2018",
+                "Notes"
+            ],
+            "Binge Drinking Frequency (%)": {
+                "Total Respondents": {
+                    "2012": 583.0,
+                    "2013": 548.0,
+                    "2014": 438.0,
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            },
+            "Average Number of Drinks per Week (%)": {
+                "Total Responces": {
+                    "2012": 583.0,
+                    "2013": 548.0,
+                    "2014": 438.0,
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            },
+            "Binge Drinking in Past Two Weeks (%)": {
+                "Total Responces": {
+                    "2012": "",
+                    "2013": "",
+                    "2014": "",
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            },
+            "Hangover in Previous 30 Days (%)": {
+                "Total Responces": {
+                    "2012": "",
+                    "2013": "",
+                    "2014": "",
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            },
+            "Vomiting in Previous 30 Days (%)": {
+                "Total Responces": {
+                    "2012": "",
+                    "2013": "",
+                    "2014": "",
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            },
+            "Memory Loss in Previous 30 Days (%)": {
+                "Total Responces": {
+                    "2012": "",
+                    "2013": "",
+                    "2014": "",
+                    "2015": 428.0,
+                    "2016": 902.0,
+                    "2017": 977.0,
+                    "2018": 825.0,
+                    "Notes": ""
+                }
+            }
+        },
+        "2": {
+            "Header": [
+                "Class Year"
+            ]
+        },
+        "3": {
+            "Header": [
+                "Binge Drinking Frequency (%)",
+                "10+ times",
+                0.2,
+                0.3,
+                0.4,
+                0.2,
+                0.0,
+                0.0
+            ],
+            "Binge Drinking Frequency (%)": {
+                "Blank": {
+                    "0.2": 6.1,
+                    "0.3": 12.1,
+                    "0.4": 10.0,
+                    "0.0": 51.3
+                }
+            },
+            "Binge Drinking Frequency: Total Respondents": {
+                "0.2": 855.0,
+                "0.3": 1145.0,
+                "0.4": 1170.0,
+                "0.0": 158.0
+            },
+            "Average Number of Drinks per Week (%)": {
+                "20+": {
+                    "0.2": "<1.4",
+                    "0.3": "<1.4",
+                    "0.4": "<1.4",
+                    "0.0": "<1.4"
+                }
+            },
+            "Average Number of Drinks per Week,  based on Core and OAPE surveys (%)": {
+                "0.0": {
+                    "0.2": 17.1,
+                    "0.3": 33.0,
+                    "0.4": 24.4,
+                    "0.0": 19.6
+                }
+            },
+            "Average Number of Drinks per Week,  based on Core and OAPE surveys: total respondents": {
+                "0.2": 855.0,
+                "0.3": 1145.0,
+                "0.4": 1170.0,
+                "0.0": 158.0
+            }
+        }
+    },
+    "ADDITIONAL ALCOHOL-RELATED DATA": {
+        "1": {
+            "Header": [
+                "Data",
+                "Options",
+                "2015-2016",
+                "2016-2017",
+                "2017-2018",
+                "3-Year Increase (%)",
+                "Notes"
+            ],
+            "Total % Non-Unique Calls (5SURE)": {
+                "2015-2016": 3646.0,
+                "2016-2017": 5331.0,
+                "2017-2018": 7649.0,
+                "3-Year Increase (%)": 110.0,
+                "Notes": "Usage of 5-SURE Safe Rides, data collected from nightly report logs of calls completed by 5-SURE Safe Rides student staff. Safe rides are offered 7 nights a week, 9:00 pm-2:00 am. Ridership is heaviest Wednesday to Saturday nights. "
+            },
+            "Total % Non-Unique Completed Calls (5SURE)": {
+                "2015-2016": 3249.0,
+                "2016-2017": 4664.0,
+                "2017-2018": 6847.0,
+                "3-Year Increase (%)": 111.0,
+                "Notes": ""
+            },
+            "Total % Non-Unique Passengers (5SURE)": {
+                "2015-2016": 4927.0,
+                "2016-2017": 7289.0,
+                "2017-2018": 10496.0,
+                "3-Year Increase (%)": 113.0,
+                "Notes": ""
+            },
+            "Total % Non-Unique Contacts (5SURE on Foot)": {
+                "2015-2016": 11247.0,
+                "2016-2017": 16023.0,
+                "2017-2018": 21502.0,
+                "3-Year Increase (%)": 91.0,
+                "Notes": "Usage of 5-SURE on Foot, data collected from nightly report logs completed by 5-SURE on Foot student staff."
+            },
+            "Total % Non-Unique Walks Home (5SURE on Foot)": {
+                "2015-2016": 50.0,
+                "2016-2017": 72.0,
+                "2017-2018": 169.0,
+                "3-Year Increase (%)": 238.0,
+                "Notes": ""
+            },
+            "Total % Non-Unique Attendees (Cardinal Nights)": {
+                "2015-2016": 18025.0,
+                "2016-2017": 27996.0,
+                "2017-2018": 22279.0,
+                "3-Year Increase (%)": 24.0,
+                "Notes": "Attendance of Cardinal Nights events, data collected by Cardinal Nights staff taking counts at events and by spots used at ticketed events."
+            }
+        },
+        "2": {
+            "Header": [
+                "Data",
+                "Quarter",
+                "2006-2007",
+                "2007-2008",
+                "2008-2009",
+                "2009-2010",
+                "2010-2011",
+                "2011-2012",
+                "2012-2013",
+                "2013-2014",
+                "2014-2015",
+                "2015-2016",
+                "2016-2017",
+                "2017-2018",
+                "Notes"
+            ],
+            "Emergency Transports": {
+                "Spring": {
+                    "2006-2007": 18.0,
+                    "2007-2008": 9.0,
+                    "2008-2009": 15.0,
+                    "2009-2010": 19.0,
+                    "2010-2011": 19.0,
+                    "2011-2012": 15.0,
+                    "2012-2013": 16.0,
+                    "2013-2014": 14.0,
+                    "2014-2015": 13.0,
+                    "2015-2016": 14.0,
+                    "2016-2017": 10.0,
+                    "2017-2018": 17.0,
+                    "Notes": ""
+                }
+            }
+        }
+    }
+}

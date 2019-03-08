@@ -13,9 +13,12 @@ for s in wb.sheets():
     print("Processing:", s.name)
     data[s.name]={}
     i = 0
+    group=0
     while True:
+        group=group+1
         header = list(filter(lambda x: not x == "", map(lambda x: x.value, s.row(i))))
-        data[s.name]["Header"] = header
+        data[s.name][group]={}
+        data[s.name][group]["Header"] = header
         i=i+1
         while True:
             try:
@@ -24,14 +27,14 @@ for s in wb.sheets():
                 if row == [""]*(len(header)):
                     break
                 if row[0] not in data[s.name]:
-                    data[s.name][row[0]]={}
+                    data[s.name][group][row[0]]={}
                 rowData = {}
                 for x in range(2,len(header)):
                     rowData[header[x]] = row[x]
                 if not row[1] == "":
-                    data[s.name][row[0]][row[1]] = rowData
+                    data[s.name][group][row[0]][row[1]] = rowData
                 else:
-                    data[s.name][row[0]] = rowData
+                    data[s.name][group][row[0]] = rowData
             except IndexError:
                 break
         try:
