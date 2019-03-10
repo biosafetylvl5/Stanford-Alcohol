@@ -325,6 +325,38 @@
                          "Notes": ""
                     }
                }
+          },
+          "2": {
+               "Header": [
+                    "Data",
+                    "Option",
+                    "2008-2009",
+                    "2009-2010",
+                    "2010-2011",
+                    "2011-2012",
+                    "2012-2013",
+                    "2013-2014",
+                    "2014-2015",
+                    "2015-2016",
+                    "2016-2017",
+                    "2017-2018",
+                    "2018-2019",
+                    "Notes"
+               ],
+               "Freshman Retention Rate": {
+                    "2008-2009": 98.0,
+                    "2009-2010": 98.0,
+                    "2010-2011": 98.0,
+                    "2011-2012": 98.0,
+                    "2012-2013": 99.0,
+                    "2013-2014": 98.45,
+                    "2014-2015": 98.0,
+                    "2015-2016": 98.0,
+                    "2016-2017": 98.0,
+                    "2017-2018": 98.82,
+                    "2018-2019": "N/R",
+                    "Notes": "Taken from http://ucomm.stanford.edu/cds/, \"For the cohort of all full-time bachelor\u2019s (or equivalent) degree-seeking undergraduate students who entered your institution as freshmen in Fall 2017 (or the preceding summer term), what percentage was enrolled at your institution as of the date your institution calculates its official enrollment in Fall 2018? \" There appears to be a type in the 2014 report that makes the reported retention cover two years rather than one. The same mistake is made in the 2008 report as well, albeit more funnily: \"For the cohort of all full-time bachelor's (or equivalent) degree-seeking undergraduate students who entered your institution as freshmen in fall 2007 (or the preceding summer term), what percentage was enrolled at your institution as of the date your institution calculates its official enrollment in fall 2007? \""
+               }
           }
      },
      "Student Body Makeup": {
@@ -547,6 +579,88 @@
                          "2017-2018": 1.0,
                          "2018-2019": 0.5,
                          "Notes": ""
+                    }
+               }
+          }
+     },
+     "Students Housed on Campus": {
+          "1": {
+               "Header": [
+                    "Student Type",
+                    "Housing Type",
+                    "2006-2007",
+                    "2007-2008",
+                    "2008-2009",
+                    "2009-2010",
+                    "2010-2011",
+                    "2011-2012",
+                    "2012-2013",
+                    "2013-2014",
+                    "2014-2015",
+                    "2015-2016"
+               ],
+               "Undergraduate": {
+                    "Housed on Campus": {
+                         "2006-2007": 6050.0,
+                         "2007-2008": 6087.0,
+                         "2008-2009": 6160.0,
+                         "2009-2010": 6300.0,
+                         "2010-2011": 6257.0,
+                         "2011-2012": 6302.0,
+                         "2012-2013": 6371.0,
+                         "2013-2014": 6448.0,
+                         "2014-2015": 6503.0,
+                         "2015-2016": 6401.0
+                    },
+                    "Housed on Campus (%)": {
+                         "2006-2007": 90.0,
+                         "2007-2008": 90.0,
+                         "2008-2009": 90.0,
+                         "2009-2010": 92.0,
+                         "2010-2011": 91.0,
+                         "2011-2012": 91.0,
+                         "2012-2013": 91.0,
+                         "2013-2014": 92.0,
+                         "2014-2015": 93.0,
+                         "2015-2016": 92.0
+                    }
+               },
+               "Graduate": {
+                    "Housed on Campus": {
+                         "2006-2007": 4255.0,
+                         "2007-2008": 4421.0,
+                         "2008-2009": 4319.0,
+                         "2009-2010": 4650.0,
+                         "2010-2011": 4695.0,
+                         "2011-2012": 4700.0,
+                         "2012-2013": 4776.0,
+                         "2013-2014": 4645.0,
+                         "2014-2015": 5037.0,
+                         "2015-2016": 5001.0
+                    },
+                    "Housed in off-campus subsidized apartments": {
+                         "2006-2007": 356.0,
+                         "2007-2008": 130.0,
+                         "2008-2009": 138.0,
+                         "2009-2010": 0.0,
+                         "2010-2011": 71.0,
+                         "2011-2012": 68.0,
+                         "2012-2013": 198.0,
+                         "2013-2014": 362.0,
+                         "2014-2015": 440.0,
+                         "2015-2016": 708.0
+                    },
+                    "Housed by Stanford (%)": {
+                         "2006-2007": 56.0,
+                         "2007-2008": 56.0,
+                         "2008-2009": 53.0,
+                         "2009-2010": 55.0,
+                         "2010-2011": 53.0,
+                         "2011-2012": 53.0,
+                         "2012-2013": 56.0,
+                         "2013-2014": 56.0,
+                         "2014-2015": 60.0,
+                         "2015-2016": 62.0
                     }
                }
           }
