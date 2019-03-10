@@ -26,7 +26,7 @@ for s in wb.sheets():
                 i = i+1
                 if row == [""]*(len(header)):
                     break
-                if row[0] not in data[s.name]:
+                if row[0] not in data[s.name][group]:
                     data[s.name][group][row[0]]={}
                 rowData = {}
                 for x in range(2,len(header)):
@@ -42,4 +42,4 @@ for s in wb.sheets():
         except IndexError:
             break
 with open(options.filename.split(".")[0]+".json", "w") as outputFile:
-    outputFile.write(json.dumps(data, indent=4))
+    outputFile.write(json.dumps(data, indent=5))
